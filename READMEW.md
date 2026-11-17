@@ -16,7 +16,7 @@ y **__combinado__**
 Ejemplo de una lista de colores 
 * rojo 
 * jamundi
-* zaza con las boca de gigante
+* zaza con la boca de gigante
 
 Ejemplo lista numerada 
 1.xd
