@@ -29,4 +29,19 @@ Lista de full
 - [x] obtener
 - [ ] no quiero
 - [ ] holo
-      
+
+Samuel Ortiz dijo: 
+> me gusta moncayo
+> y la amo aunque parezca un pedo
+
+## Tabla de mentira
+
+  A  |  B |  A AND B
+ --- |----| ---------
+ 0   |  0 |  0
+ 0   |  1 |  0 
+ 1   |  0 |  0 
+ 1   |  1 |  1
+ 
+
+
