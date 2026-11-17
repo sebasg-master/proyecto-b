@@ -13,3 +13,20 @@ Esto esta en **negrilla**
 Esto esta en __cursiva__
 y **__combinado__**
 
+Ejemplo de una lista de colores 
+* rojo 
+* jamundi
+* zaza con las boca de gigante
+
+Ejemplo lista numerada 
+1.xd
+2.lol
+3.bakugo
+
+Lista de full 
+* hola
+* simon
+- [x] obtener
+- [ ] no quiero
+- [ ] holo
+      
